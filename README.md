@@ -27,5 +27,5 @@
 
 2️⃣ **Clone the repository:**
 ```bash
-git clone https://github.com/KevinKhemra007/WiFi-Password-Tool.git
-cd WiFi-Password-Tool
+git clone https://github.com/KevinKhemra007/WifiPassword.git
+cd WifiPassword
